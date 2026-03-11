@@ -1,0 +1,11 @@
+# Discord bot framework
+discord.py>=2.3.2
+
+# Environment variable loader (.env support)
+python-dotenv>=1.0.0
+
+# Async HTTP requests (used by discord and telegram integration)
+aiohttp>=3.9.0
+
+# Discord framework
+discord.py>=2.3.2
